@@ -1,13 +1,9 @@
 ---
-title: "Ones: Una sinopsi curta"
-date: 2025-07-19T05:00:00Z
-image: /images/posts/post-1.jpg
+title: "ICOFF"
+date: 2025-05-10T05:00:00Z
+image: /images/icoff.png
 categories: 
-  - Info
+   - Festivals
 draft: false
 ---
-En Sam té 9 anys.  
-L'acaben d'expulsar de l'escola per agredir una companya.  
-En Martí en té 42. És luthier.   
-Pensa que té un problema amb el seu fill.  
-En Sam sap tot el que Martí pensa.  
+"Ones" es va estrenar mundialment al festival [ICOFF](https://www.icoffgasteiz.com/ "Vitoria!"), a Vitoria, el passat Maig.

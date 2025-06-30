@@ -5,12 +5,16 @@
       "url": "/"
     },
     {
-      "name": "Contacte",
-      "url": "/contact"
-    },
-    {
       "name": "Materials",
       "url": "/elements"
+    },    
+    {
+      "name": "Info",
+      "url": "/credits"
+    },
+    {
+      "name": "Qui",
+      "url": "/contact"
     }
   ]
 }
