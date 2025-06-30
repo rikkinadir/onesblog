@@ -1,19 +1,19 @@
 ---
-title: "Contact Me"
+title: "Qui"
 meta_title: ""
-description: "this is meta description"
+description: "qui ho ha fet"
 draft: false
 ---
 
-## Get in touch
+## juanjo giménez peña
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
+### biography
 
-### Location
+Juanjo Giménez Peña was born and lives in Barcelona. 
+In addition to writing, producing and directing films, he has a degree in economics, and is a fan of FC Barcelona and Van der Graaf Generator, among other hobbies.
 
-4140 Parker Rd. Allentown,
-New Mexico 31134
+### filmography
 
-### Phone
-
-+88544767456
+“Tres” (“Out of Sync”, 2021) Venice, Toronto, Sitges, Miami, Edinburgh, and so on.
+"Timecode" (2016), Palme d'Or, Oscar nominated, EFA, Goya, etc.
+Other selected works: "Ones" (2025), "Mussol" (2022), “Contact Proof” (2014), “Dodge and Hit” (2010), “Tilt” (2003)

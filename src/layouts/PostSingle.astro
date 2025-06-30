@@ -36,7 +36,7 @@ const { title, categories, image, date } = post.data;
               d="M.292892 7.29289c-.3905235.39053-.3905235 1.02369.0 1.41422L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711 8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8 8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107.928932 7.68054.538408 7.04738.538408 6.65685.928932L.292892 7.29289zM21 7H1V9H21V7z"
               fill="currentcolor"></path>
           </svg>
-          Back to Home
+          Torna a Inici
         </a>
         <article>
           {
@@ -85,17 +85,6 @@ const { title, categories, image, date } = post.data;
         </article>
 
         {config.disqus.enable && <Disqus className="mt-20" client:load />}
-      </div>
-    </div>
-
-    <div class="pt-12">
-      <h2 class="h2 text-center">Related Posts</h2>
-      <div class="row gy-4 mt-12 justify-center">
-        {
-          similarPosts.map((post) => (
-            <Post className="col-12 md:col-4" post={post} />
-          ))
-        }
       </div>
     </div>
   </div>

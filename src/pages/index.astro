@@ -12,7 +12,7 @@ import { markdownify } from "@/lib/utils/textConverter";
 
 const posts = await getSinglePage("posts");
 const { pagination } = config.settings;
-const { name, image, designation, bio } = config.profile;
+const { name, image, image2, designation, bio } = config.profile;
 const sortPostByDate = sortByDate(posts);
 ---
 
@@ -34,11 +34,19 @@ const sortPostByDate = sortByDate(posts);
             set:html={markdownify(name)}
             class="mt-12 text-6xl lg:text-8xl font-semibold"
           />
+          <ImageMod
+            class="mx-auto rounded-full"
+            src={image2}
+            width={200}
+            height={46}
+            alt={name}
+            loading="eager"
+          />
           <p
             set:html={markdownify(designation)}
             class="mt-6 text-primary text-xl"
           />
-          <p set:html={markdownify(bio)} class="mt-4 leading-9 text-xl" />
+          <p set:html={markdownify(bio)} class="mt-4 leading-9 text-base" />
           <Social source={social.main} className="social-icons mt-8" />
         </div>
       </div>
@@ -54,7 +62,7 @@ const sortPostByDate = sortByDate(posts);
             {
               sortPostByDate
                 .slice(0, pagination)
-                .map((post) => <Post className="col-12 sm:col-6" post={post} />)
+                .map((post) => <Post className="col-12 sm:col-4" post={post} />)
             }
           </div>
         </div>

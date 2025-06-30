@@ -1,15 +1,15 @@
 {
   "main": [
     {
-      "name": "All Posts",
+      "name": "Inici",
       "url": "/"
     },
     {
-      "name": "Contact",
+      "name": "Contacte",
       "url": "/contact"
     },
     {
-      "name": "Elements",
+      "name": "Materials",
       "url": "/elements"
     }
   ]

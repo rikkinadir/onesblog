@@ -1,0 +1,4 @@
+#!/bin/zsh
+npm run build
+rsync -rzP -e "ssh -p 8888" /Users/juanjo/astro/onesblog/dist/* root@nadirfilms.com:/var/www/ones/
+ssh root@nadirfilms.com -p 8888 chown -R www-data:www-data /var/www/ones/

@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Hydrogen Astro",
-    "base_url": "https://hydrogen-astro.vercel.app",
+    "title": "Ones",
+    "base_url": "https://ones.nadirfilms.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/developer.png"
@@ -13,19 +13,20 @@
   },
 
   "profile": {
-    "name": "Michael Caine",
+    "name": "Ones",
     "image": "/images/developer.png",
-    "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "image2": "/images/zener.png",
+    "designation": "Un curtmetratge de Juanjo Giménez Peña",
+    "bio": "Quadrat, cercle, creu, estrella. Ones."
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2024 a theme by [statichunt](https://statichunt.com)"
+    "copyright": "©2025 Ones by [rikkinadir](https://juanjogimenez.com) / [nadirfilms](https://nadirfilms.com) / [marvin&wayne](https://marvinwayne.com/ones)"
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
