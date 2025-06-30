@@ -4,15 +4,15 @@ meta_title: ""
 description: "qui ho ha fet"
 draft: false
 ---
+![Sam](/images/jj.png)
+#### juanjo giménez peña
 
-## juanjo giménez peña
-
-### biografia
+##### biografia
 
 Juanjo Giménez Peña va néixer i viu a Barcelona.
-A més d'escriure, produir i dirigir pel·lícules, és llicenciat en economia i vei del barri del Carmel.
+A més d'escriure, produir i dirigir pel·lícules, és llicenciat en economia i veí del barri del Carmel.
 
-### filmografia
+##### filmografia
 
 “Tres” (“Out of Sync”, 2021) Venècia, Toronto, Sitges, Miami, Edimburg, etc.  
 "Timecode" (2016), Palma d'Or, nominada a l'Oscar, EFA, Goya, etc.  

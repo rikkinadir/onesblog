@@ -3,12 +3,22 @@
     {
       "name": "facebook",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.facebook.com/rikkinadir75"
+    },
+    {
+      "name": "bluesky",
+      "icon": "FaBluesky",
+      "link": "https://bsky.app/profile/rikkinadir.bsky.social"
+    },
+     {
+      "name": "instagram",
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/rikkinadir/"
     },
     {
       "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
+      "icon": "FaXTwitter",
+      "link": "https://twitter.com/rikkinadir"
     }
   ]
 }
