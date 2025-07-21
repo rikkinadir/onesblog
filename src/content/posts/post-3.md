@@ -1,6 +1,6 @@
 ---
 title: Festival Internacional de Curtmetratges de Vila-seca
-date: 2025-07-30T05:00:00Z
+date: 2025-10-26T05:00:00Z
 image: /images/ficvi.png
 categories:
    - Festivals

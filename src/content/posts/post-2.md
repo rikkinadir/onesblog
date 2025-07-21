@@ -7,4 +7,5 @@ categories:
 draft: false
 ---
 
-El proper juliol, "Ones" estarà a concurs al [31e Festival Ibérico de Cinema](https://festivaldecine.com/corto/ones/ "Badajoz!") en Badajoz.
+"Ones" és a concurs al [31e Festival Ibérico de Cinema](https://festivaldecine.com/corto/ones/ "Badajoz!") en Badajoz.  
+Aquí hi ha una petita [crítica del curt.](https://www.elantepenultimomohicano.com/2025/07/iberico-2025-segunda-cronica.html)
