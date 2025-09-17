@@ -7,4 +7,5 @@ categories:
 draft: false
 ---
 
-A l'octubre, "Ones" es veurà en el [Festival Internacional de Curtmetratges de Vila-seca](https://ficvi.cat/ "Vila-seca!")
+A l'octubre, "Ones" es veurà en el [Festival Internacional de Curtmetratges de Vila-seca](https://ficvi.cat/ "Vila-seca!")  
+Aquí la [fitxa del curt.](https://ficvi.cat/detall-ones-2025)
