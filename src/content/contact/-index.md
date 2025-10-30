@@ -16,4 +16,4 @@ A més d'escriure, produir i dirigir pel·lícules, és llicenciat en economia i
 
 “Tres” (“Out of Sync”, 2021) Venècia, Toronto, Sitges, Miami, Edimburg, etc.  
 "Timecode" (2016), Palma d'Or, nominada a l'Oscar, EFA, Goya, etc.  
-Altres obres seleccionades: "Ones" (2025), "Mussol" (2022), "Contact Proof" (2014), "Dodge and Hit" (2010), "Tilt" (2003)  
+A més: "Ones" (2025), "Retales" (2025), "Mussol" (2023), "Ascenso" (2021), "Contact Proof" (2014), "Dodge and Hit" (2010), "Tilt" (2003)... entre d'altres.
