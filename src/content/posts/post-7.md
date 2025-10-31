@@ -7,4 +7,4 @@ categories:
 draft: false
 ---
 
-L'estrena internacional d'"Ones" serà al Black Nights Film Festival, Tallinn, Estonia [PÖFF Shorts](https://shorts.poff.ee/en/news/2025-poff-shorts-competition-titles-revealed/#:~:text=WAVES "PÖFF!"). Anirem personalment a presentar-ho.   
+L'estrena internacional d'"Ones" serà al Black Nights Film Festival, Tallinn, Estonia [PÖFF Shorts](https://shorts.poff.ee/en/film/shorts-live-action-competition-1/#:~:text=INTERNATIONAL%20PREMIERE-,Waves,-Local%20title). Anirem personalment a presentar-ho.   
