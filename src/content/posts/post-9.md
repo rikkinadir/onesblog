@@ -1,7 +1,7 @@
 ---
 title: Millor Curt Nacional CortoGeniAl
 date: 2025-10-28T09:00:00Z
-image: /images/cortogenial.jpg
+image: /images/cortogenial.png
 categories:
    - Premis
 draft: false
